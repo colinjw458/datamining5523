@@ -1,5 +1,5 @@
 # datamining5523
-A repository for my CSCI 5523 Data Mining homework at the University of Minnesota
+An example of homework I did in undergrad
 
 Python version:
 3.9.12
